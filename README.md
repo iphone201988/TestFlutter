@@ -15,4 +15,6 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-[//]: # (FLUTTER SDK --> 3.7.2)
+## We are using FLUTTER SDK version 3.7.2
+## Material State Management in Flutter refers to how Material widgets (like buttons) automatically handle visual states
+## Implemented FirebaseAuthService, that manages user authentication using Firebase in a Flutter app. It provides methods for signing in, creating accounts, signing out, and listening to auth state changes
